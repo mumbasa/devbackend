@@ -14,10 +14,7 @@ Spring Web - Build web, including RESTful, applications using Spring MVC
 Lombok - Java annotation library which helps reduce boilerplate code
 
 # 2 REST API Service (JAVA)
-I have put the https://www.anapioficeandfire.com/api/houses enpoint in the application.properties file located in the resource folder of this project.
 
-To start the service we need to identify the resources the user would request. Based on the task I found out we needed 2 models to be generated namely House and the HouseCharacter. The HouseCharacter class is
-for the Heir,Kins and other personality information contained in the House class. I used Lombok to generate the setters and getters at runtime
 
 # A Models
 
